@@ -45,9 +45,10 @@ describe("check build output for a generic post", () => {
 
     it("should have metadata", () => {
       assert.equal(select("title"), "This is my first post.");
-      expect(select("meta[property='og:image']", "content")).to.match(
+      //removed as image is removed
+      /*expect(select("meta[property='og:image']", "content")).to.match(
         /\/img\/remote\/\w+.jpg/
-      );
+      );*/
       assert.equal(select("link[rel='canonical']", "href"), POST_URL);
       assert.equal(
         select("meta[name='description']", "content"),
