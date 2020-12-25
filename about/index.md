@@ -14,8 +14,6 @@ In my waking hours, you can find me reading up on some random thing (I will star
 Whew, that was a mouthful. 
 
 tl,dr:
-_I want to study systems with different systems and understand how using one system affects the larger system..._
+_I want to study things I find interesting and hopefully find some relation between them._
  
 **I think?** (too much.)
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
