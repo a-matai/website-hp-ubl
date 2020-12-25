@@ -4,7 +4,7 @@
   "domain": "amatai.me",
   "description": "Personal website of Anant Matai/",
   "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "googleAnalyticsId": "G-VPK58L2V0W",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "Subtitle. Update me.",
@@ -18,7 +18,10 @@
   },
   "author": {
     "name": "Anant Matai",
-    "twitterHandle": "antmoot"
+    "twitterHandle": "antmoot",
+    "github": "a-matai",
+    "instagram": "theanantm",
+    "linkedin": "anantmatai"
   },
   "publisher": {
     "name": "No publishers til' Brooklyn"
